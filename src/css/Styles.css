@@ -1,0 +1,21 @@
+#btn1 {
+-fx-font-size:12pt;
+-fx-font-family:"Comic Sans MS", cursive, sans-serif;
+-fx-text-fill: rgb(204, 51, 0);
+-fx-background-color: rgb(180, 180, 220);
+
+}
+
+#textField {
+-fx-font-size:12pt;
+-fx-text-fill: rgb(102, 102, 255);
+-fx-font-family:"Comic Sans MS", cursive, sans-serif;
+-fx-background-color: rgb(210, 250, 210);
+}
+
+#textArea {
+-fx-font-size:13pt;
+-fx-text-fill: rgb(102, 102, 255);;
+-fx-font-family:"Comic Sans MS", cursive, sans-serif;
+-fx-background-color: blue;
+ }
